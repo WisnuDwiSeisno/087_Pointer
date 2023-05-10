@@ -4,5 +4,9 @@ using namespace std;
 class mahasiswa {
 public:
 	int nim;
-	void shownim();		//deklarasi method
+	void showNim();		//deklarasi method
 };
+
+void mahasiswa::showNim() {
+
+}
