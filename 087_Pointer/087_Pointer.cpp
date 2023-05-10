@@ -22,5 +22,6 @@ int main() {
 	mahasiswa* pMhs = &mhs;	//Pointer dereference pMhs
 	pMhs->nim = 3;			//Arrow Operator
 	pMhs->showNim();
-
+	system("pause");
+	return 0;
 }
